@@ -15,6 +15,7 @@
   * [Contributions](#contributions)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Screenshot](#screenshot)
 
   ## Installation
   >  N/A  
@@ -24,16 +25,20 @@
 
   >  
   ## License
-  This application is under the The MIT License(https://opensource.org/license/mit/) license. To learn about license rights and limitations, click the link. Thank you.
+  This application is under the MIT License(https://opensource.org/license/mit/) license. To learn about license rights and limitations, click the link. Thank you.
 
   ## Contribute 
   >  Ernie Schilling, Jr.; Miller Bethea
 
   ## Tests
-  >  JRH has a massive inventory of over 3 million SKUS (part numbers) across $50 million in inventory. As an authorized distributor, JRH Electronics buys directly from the OEM Manufacturer and uniquely provides our customers with the opportunity to satisfy their Service-Disabled Veteran-Owned/Veteran-Owned Small Business set-aside, socio-economic spending goals safely (no counterfeit), and cost-effectively (no duplicate mark ups).
+  >  JRH has a massive inventory of over 3 million SKUs (part numbers) across $50 million in inventory. As an authorized distributor, JRH Electronics buys directly from the OEM Manufacturer and uniquely provides our customers with the opportunity to satisfy their Service-Disabled Veteran-Owned/Veteran-Owned Small Business set-aside, socio-economic spending goals safely (no counterfeit), and cost-effectively (no duplicate markups).
 
   ## Questions 
   > [My Github Portfolio](https://github.com/upennbootcamp23) <br>
   > [My Email](alexandersegerev@gmail.com)
+
+  ## Screenshot
+  ![image](https://github.com/upennbootcamp23/egerev_README-creator/assets/143010411/b3a69ae9-6bfb-4a31-a03a-81f4c60bb07e)
+
 
   
