@@ -1,12 +1,12 @@
 
  
-  > [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
   ## Project Title
-  >  JRH Electronics
+  >  One Piece Fanpage
 
   ## Description 
-  > Authorized Electronics Distributor.
+  > The Official Fanpage of the best series ever, One Piece.
 
   ## Table of Contents
   * [Installation](#installation) 
@@ -20,17 +20,17 @@
   >  N/A  
 
   ## Usage
-  >  Founded in 1992, JRH Electronics, LLC is an authorized, Service-Disabled Veteran-Owned Small Business, Electronic Component Distributor and Value-Added Connector Manufacturer. We are an international company, representing the most esteemed and electronic connector, switch, and sensor manufacturers.
+  >  This page contians everything related to One Piece. 
 
   >  
   ## License
-  This application is under the The MIT License(https://opensource.org/license/mit/) license. To learn about license rights and limitations, click the link. Thank you.
+  This application is under the Attribution-NonCommmercial-ShareAlike 4.0 International(https://creativecommons.org/licenses/by-nc-sa/4.0/) license. To learn about license rights and limitations, click the link. Thank you.
 
   ## Contribute 
-  >  Ernie Schilling, Jr.; Miller Bethea
+  >  Eiichiro Oda
 
   ## Tests
-  >  JRH has a massive inventory of over 3 million SKUS (part numbers) across $50 million in inventory. As an authorized distributor, JRH Electronics buys directly from the OEM Manufacturer and uniquely provides our customers with the opportunity to satisfy their Service-Disabled Veteran-Owned/Veteran-Owned Small Business set-aside, socio-economic spending goals safely (no counterfeit), and cost-effectively (no duplicate mark ups).
+  >  N/A
 
   ## Questions 
   > [My Github Portfolio](https://github.com/upennbootcamp23) <br>
