@@ -15,6 +15,7 @@
   * [Contributions](#contributions)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Screenshot](#screenshot)
 
   ## Installation
   >  N/A  
@@ -35,5 +36,9 @@
   ## Questions 
   > [My Github Portfolio](https://github.com/upennbootcamp23) <br>
   > [My Email](alexandersegerev@gmail.com)
+
+  ## Screenshot
+  ![image](https://github.com/upennbootcamp23/egerev_README-creator/assets/143010411/b3a69ae9-6bfb-4a31-a03a-81f4c60bb07e)
+
 
   
